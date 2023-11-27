@@ -28,3 +28,6 @@ public class Bicicleta implements ImpactoEcologico {
         return impactoCarbono;
     }
 }
+$ GIT_COMMITTER_DATE="2023-11-26
+    08:53:24"git commit -- date="2023-11-26
+    08:53:24"
